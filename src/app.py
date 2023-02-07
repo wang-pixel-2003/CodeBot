@@ -10,8 +10,7 @@ from discord.ext import commands
 intents=discord.Intents.all()
 bot = commands.Bot(command_prefix="!", description='The Best Bot', intents = intents)
 
-# token = 'MTAyODA1MzEyOTAxMjQ2NTY3NQ.GXj6kj.wnlrXYuKsFnUJqlSvj9Yw2gmQ9mYSwiBhx-Yik'
-token = 'MTAzMTc1MDk4MTYyNjYzMDI2NQ.Ga-jC_.RNlEaC_to8Xr26CiwZmDMz-Flu2hwRScy9wGQM'
+token = ''
 
 structure = ["if", "for", "for-each", "while", "array", "ArrayList", "matriz", "arreglos", "listas enlazadas", "pilas", "colas", "arbol binario"]
 
